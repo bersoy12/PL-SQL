@@ -1,0 +1,20 @@
+16/11/2020 00:37:04,843000 Beginner to Advanced
+
+
+PL/SQL procedure successfully completed.
+
+16/11/2020 00:37:13,961000 Beginner to Advanced
+
+
+PL/SQL procedure successfully completed.
+
+16/11/2020 00:37:26,314000 +03:00 Beginner to Advanced
+
+
+PL/SQL procedure successfully completed.
+
+16/11/2020 00:37:51,23 +03:00 Beginner to Advanced
+
+
+PL/SQL procedure successfully completed.
+
